@@ -1,0 +1,189 @@
+{
+  "title": "5e DM Content",
+  "description": "DM focused D&amp;D 5e content owned by William Travis",
+  "packFolders": [
+    {
+      "name": "Creatures",
+      "sorting": "m",
+      "packs": ["aberration", "beast", "celestial", "construct", "dragon", "elemental", "fey", "fiend", "giant", "humanoid", "monstrosity", "named_char", "ooze", "plant", "undead", "module-features"]
+    }
+  ],
+  "packs": [
+    {
+      "name": "aberration",
+      "label": "Aberrations (5e Content)",
+      "path": "packs/aberration",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "beast",
+      "label": "Beasts (5e Content)",
+      "path": "packs/beast",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "celestial",
+      "label": "Celestials (5e Content)",
+      "path": "packs/celestial",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "construct",
+      "label": "Constructs (5e Content)",
+      "path": "packs/construct",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "dragon",
+      "label": "Dragons (5e Content)",
+      "path": "packs/dragon",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "elemental",
+      "label": "Elementals (5e Content)",
+      "path": "packs/elemental",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "fey",
+      "label": "Fey (5e Content)",
+      "path": "packs/fey",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "fiend",
+      "label": "Fiends (5e Content)",
+      "path": "packs/fiend",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "giant",
+      "label": "Giants (5e Content)",
+      "path": "packs/giant",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "humanoid",
+      "label": "Humanoids (5e Content)",
+      "path": "packs/humanoid",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "named_char",
+      "label": "Named Characters (5e Content)",
+      "path": "packs/named_char",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "monstrosity",
+      "label": "Monstrosities (5e Content)",
+      "path": "packs/monstrosity",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "ooze",
+      "label": "Oozes (5e Content)",
+      "path": "packs/ooze",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "plant",
+      "label": "Plants (5e Content)",
+      "path": "packs/plant",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "undead",
+      "label": "Undead (5e Content)",
+      "path": "packs/undead",
+      "private": false,
+      "type": "Actor",
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "module-playlists",
+      "label": "Playlists (5e Content)",
+      "path": "packs/playlists",
+      "private": false,
+      "type": "Playlist",
+      "flags": {},
+      "system": "dnd5e"
+    },
+    {
+      "name": "module-features",
+      "label": "Monster features (5e Content)",
+      "path": "packs/features",
+      "private": false,
+      "type": "Item",
+      "flags": {},
+      "system": "dnd5e"
+    }
+  ],
+  "version": "1.2.8",
+  "manifest": "https://raw.githubusercontent.com/wibrotra/5e-dm-content/master/module.json",
+  "download": "https://github.com/wibrotra/5e-dm-content/archive/refs/tags/1.2.8.zip",
+  "id": "5e-dm-content",
+  "authors": [
+    {
+      "name": "William Travis",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  }
+}

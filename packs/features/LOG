@@ -1,0 +1,5 @@
+2024/09/09-13:55:04.117 dc4 Recovering log #217
+2024/09/09-13:55:04.118 dc4 Level-0 table #219: started
+2024/09/09-13:55:04.123 dc4 Level-0 table #219: 61674 bytes OK
+2024/09/09-13:55:04.133 dc4 Delete type=0 #217
+2024/09/09-13:55:04.133 dc4 Delete type=3 #216
